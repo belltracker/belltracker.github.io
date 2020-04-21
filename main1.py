@@ -41,5 +41,12 @@ def bellsSave(bellsINPUT):
 
     return render_template("saved.html")
 
+
+
+@app.route("/.well-known/security.txt")
+def security():
+
+    return render_template("security.html")
+
 if __name__ == "__main__":
     app.run()
