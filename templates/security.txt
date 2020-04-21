@@ -1,0 +1,5 @@
+Contact: mailto:okistuffyt@gmail.com
+Contact: https://github.com/belltracker/belltracker.github.io/issues
+Acknowledgments: https://github.com/belltracker/belltracker.github.io
+Preferred-Languages: English (Preferred), Spanish, Italian
+Canonical: https://belltracker.github.io/
