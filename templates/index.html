@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon"> 
+
+<head>
+
+    <title>Bell Tracker</title>
+</head>
+<body>
+    <h1>Welcome to Bell Tracking 1.1.0</h1>
+    <P>By: Okistuff</P>
+
+
+
+    <label for="bells">Amount Of Bells Saved Today:</label>
+
+     <script href="main.js"></script>
+
+
+    <input type="number" id="bells" name="bells"><br><br>
+    <button type="button" id="bellsSaved" onclick="var inputVal = document.getElementById('bells').value; var bellsCount = inputVal.toString(); var url = '/bells/'+bellsCount; window.location = url;">Submit</button>
+
+
+</body>
+</html>

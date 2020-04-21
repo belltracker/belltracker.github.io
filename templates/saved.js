@@ -1,0 +1,7 @@
+alert("Your bells have been saved")
+
+var url = "/"
+
+document.write("Redirecting to the home page in 3 seconds..."); 
+setTimeout(function(){window.location = url;}, 3000);
+
