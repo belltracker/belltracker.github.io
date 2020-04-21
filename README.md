@@ -1,5 +1,5 @@
 # belltracker.github.io
-Bell Tracker 1.1.0
+Bell Tracker 1.1.1
 
 If you are seeing this webpage that's because this website is running on top of Flask. Flask is not natively supported for Github Pages. If you know a fix please go to [The Dev Fork of Bell Tracker.](https://github.com/Okistuff/belltracker.github.io "Unstable Build of Bell Tracker")
 
