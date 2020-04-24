@@ -8,6 +8,7 @@ If you are seeing this webpage that's because this website is running on top of 
 https://github.com/belltracker/belltracker.github.io or https://belltracker.github.io
 
 # Please Consider donating using the Sponser Button :)
+Also consider pressing the star button.
 
 # If you want to see new verisons of belltracker.github.io before they are up go to: 
 https://github.com/OkiStuff/belltracker.github.io
